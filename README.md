@@ -1,1 +1,11 @@
-# Current-Emerging-Trends-in-CS-2025
+~What do computer scientists do and why does it matter?
+ 
+Computer scientists do far too many things to list them all if I'm being honest. But to summarize it, computer scientists are the one's who create the groundwork and the infrastructure for all manner of programs and software. In today's very digital society, that is a massive deal. Computer scientists can even be argued to be a form of artist in a certain sense. There's a lot that goes into what we do and it is very contingent on the focus of what area of the field you are in as well as the project.
+ 
+~How do I appeoach a problem as a computer scientist?
+
+ The 2 main components of any decision making for computer scientists revolve around top down problem solving and future proofing. Top down problem solving is what it sounds like and it is the entire premise of breaking a problem down into the smallest pieces that you can manage in order to find a solution to your needs. Whereas future proofing is the act of making sure there are as little issues you need to worry about in the future as you can manage from any of the previously mentioned problem solving. This is usually solved by following object orientation principles.
+ 
+~What are my ethical responsibilities to the end user and the organization?
+
+ As a computer scientist that is making a product for an end user, there are professional expectations that go into our design that we should abide by in order to gain trust with our end users. That trust will result in a positive reception of the organization and thus, better long term profit. Not to mention that it helps many workers to be attached to a company that aligns itself to good ethics. The actual ethical responsibilities include mostly information handling, as sensitive information is inevitable for many aspects of what we do and it is our responsibility to keep that information safe. In terms of AI, this is twice as true since many of the current day issues with AI revolve around the scraping of training data. While we are in a company and a company is meant to make money, there are compromises that we are expected to have in some areas to garner trust. If there is no trust, there are no customers.
